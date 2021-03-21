@@ -1,0 +1,14 @@
+package com.erik;
+
+public class Alumno {
+    private class String nombre;
+    private double [] calificaciones;
+
+    public String getNombre() {
+        return this.nombre;
+    }
+    public void setNombre(Sting nombre){
+        this.nombre = nombre;
+    }
+
+}
